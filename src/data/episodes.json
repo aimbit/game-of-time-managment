@@ -1,0 +1,471 @@
+[
+  {
+    "season": 1,
+    "rank": 1,
+    "episode": 1,
+    "title": "Winter Is Coming",
+    "runtime": 62
+  },
+  {
+    "season": 1,
+    "rank": 2,
+    "episode": 2,
+    "title": "The Kingsroad",
+    "runtime": 56
+  },
+  {
+    "season": 1,
+    "rank": 3,
+    "episode": 3,
+    "title": "Lord Snow",
+    "runtime": 58
+  },
+  {
+    "season": 1,
+    "rank": 4,
+    "episode": 4,
+    "title": "Cripples, Bastards, and Broken Things",
+    "runtime": 56
+  },
+  {
+    "season": 1,
+    "rank": 5,
+    "episode": 5,
+    "title": "The Wolf and the Lion",
+    "runtime": 55
+  },
+  {
+    "season": 1,
+    "rank": 6,
+    "episode": 6,
+    "title": "A Golden Crown",
+    "runtime": 53
+  },
+  {
+    "season": 1,
+    "rank": 7,
+    "episode": 7,
+    "title": "You Win or You Die",
+    "runtime": 58
+  },
+  {
+    "season": 1,
+    "rank": 8,
+    "episode": 8,
+    "title": "The Pointy End",
+    "runtime": 58
+  },
+  {
+    "season": 1,
+    "rank": 9,
+    "episode": 9,
+    "title": "Baelor",
+    "runtime": 57
+  },
+  {
+    "season": 1,
+    "rank": 10,
+    "episode": 10,
+    "title": "Fire and Blood",
+    "runtime": 53
+  },
+  {
+    "season": 2,
+    "rank": 11,
+    "episode": 1,
+    "title": "The North Remembers",
+    "runtime": 53
+  },
+  {
+    "season": 2,
+    "rank": 12,
+    "episode": 2,
+    "title": "The Night Lands",
+    "runtime": 54
+  },
+  {
+    "season": 2,
+    "rank": 13,
+    "episode": 3,
+    "title": "What Is Dead May Never Die",
+    "runtime": 53
+  },
+  {
+    "season": 2,
+    "rank": 14,
+    "episode": 4,
+    "title": "Garden of Bones",
+    "runtime": 51
+  },
+  {
+    "season": 2,
+    "rank": 15,
+    "episode": 5,
+    "title": "The Ghost of Harrenhal",
+    "runtime": 54
+  },
+  {
+    "season": 2,
+    "rank": 16,
+    "episode": 6,
+    "title": "The Old Gods and the New",
+    "runtime": 54
+  },
+  {
+    "season": 2,
+    "rank": 17,
+    "episode": 7,
+    "title": "A Man Without Honor",
+    "runtime": 55
+  },
+  {
+    "season": 2,
+    "rank": 18,
+    "episode": 8,
+    "title": "The Prince of Winterfell",
+    "runtime": 54
+  },
+  {
+    "season": 2,
+    "rank": 19,
+    "episode": 9,
+    "title": "Blackwater",
+    "runtime": 55
+  },
+  {
+    "season": 2,
+    "rank": 20,
+    "episode": 10,
+    "title": "Valar Morghulis",
+    "runtime": 64
+  },
+  {
+    "season": 3,
+    "rank": 21,
+    "episode": 1,
+    "title": "Valar Dohaeris",
+    "runtime": 55
+  },
+  {
+    "season": 3,
+    "rank": 22,
+    "episode": 2,
+    "title": "Dark Wings, Dark Words",
+    "runtime": 57
+  },
+  {
+    "season": 3,
+    "rank": 23,
+    "episode": 3,
+    "title": "Walk of Punishment",
+    "runtime": 53
+  },
+  {
+    "season": 3,
+    "rank": 24,
+    "episode": 4,
+    "title": "And Now His Watch Is Ended",
+    "runtime": 54
+  },
+  {
+    "season": 3,
+    "rank": 25,
+    "episode": 5,
+    "title": "Kissed by Fire",
+    "runtime": 58
+  },
+  {
+    "season": 3,
+    "rank": 26,
+    "episode": 6,
+    "title": "The Climb",
+    "runtime": 54
+  },
+  {
+    "season": 3,
+    "rank": 27,
+    "episode": 7,
+    "title": "The Bear and the Maiden Fair",
+    "runtime": 58
+  },
+  {
+    "season": 3,
+    "rank": 28,
+    "episode": 8,
+    "title": "Second Sons",
+    "runtime": 57
+  },
+  {
+    "season": 3,
+    "rank": 29,
+    "episode": 9,
+    "title": "The Rains of Castamere",
+    "runtime": 51
+  },
+  {
+    "season": 3,
+    "rank": 30,
+    "episode": 10,
+    "title": "Mhysa",
+    "runtime": 63
+  },
+  {
+    "season": 4,
+    "rank": 31,
+    "episode": 1,
+    "title": "Two Swords",
+    "runtime": 58
+  },
+  {
+    "season": 4,
+    "rank": 32,
+    "episode": 2,
+    "title": "The Lion and the Rose",
+    "runtime": 53
+  },
+  {
+    "season": 4,
+    "rank": 33,
+    "episode": 3,
+    "title": "Breaker of Chains",
+    "runtime": 57
+  },
+  {
+    "season": 4,
+    "rank": 34,
+    "episode": 4,
+    "title": "Oathkeeper",
+    "runtime": 55
+  },
+  {
+    "season": 4,
+    "rank": 35,
+    "episode": 5,
+    "title": "First of His Name",
+    "runtime": 53
+  },
+  {
+    "season": 4,
+    "rank": 36,
+    "episode": 6,
+    "title": "The Laws of Gods and Men",
+    "runtime": 51
+  },
+  {
+    "season": 4,
+    "rank": 37,
+    "episode": 7,
+    "title": "Mockingbird",
+    "runtime": 51
+  },
+  {
+    "season": 4,
+    "rank": 38,
+    "episode": 8,
+    "title": "The Mountain and the Viper",
+    "runtime": 53
+  },
+  {
+    "season": 4,
+    "rank": 39,
+    "episode": 9,
+    "title": "The Watchers on the Wall",
+    "runtime": 51
+  },
+  {
+    "season": 4,
+    "rank": 40,
+    "episode": 10,
+    "title": "The Children",
+    "runtime": 51
+  },
+  {
+    "season": 5,
+    "rank": 41,
+    "episode": 1,
+    "title": "The Wars to Come",
+    "runtime": 52
+  },
+  {
+    "season": 5,
+    "rank": 42,
+    "episode": 2,
+    "title": "The House of Black and White",
+    "runtime": 56
+  },
+  {
+    "season": 5,
+    "rank": 43,
+    "episode": 3,
+    "title": "High Sparrow",
+    "runtime": 60
+  },
+  {
+    "season": 5,
+    "rank": 44,
+    "episode": 4,
+    "title": "Sons of the Harpy",
+    "runtime": 51
+  },
+  {
+    "season": 5,
+    "rank": 45,
+    "episode": 5,
+    "title": "Kill the Boy",
+    "runtime": 57
+  },
+  {
+    "season": 5,
+    "rank": 46,
+    "episode": 6,
+    "title": "Unbowed, Unbent, Unbroken",
+    "runtime": 54
+  },
+  {
+    "season": 5,
+    "rank": 47,
+    "episode": 7,
+    "title": "The Gift",
+    "runtime": 59
+  },
+  {
+    "season": 5,
+    "rank": 48,
+    "episode": 8,
+    "title": "Hardhome",
+    "runtime": 60
+  },
+  {
+    "season": 5,
+    "rank": 49,
+    "episode": 9,
+    "title": "The Dance of Dragons",
+    "runtime": 53
+  },
+  {
+    "season": 5,
+    "rank": 50,
+    "episode": 10,
+    "title": "Mother's Mercy",
+    "runtime": 60
+  },
+  {
+    "season": 6,
+    "rank": 51,
+    "episode": 1,
+    "title": "The Red Woman",
+    "runtime": 50
+  },
+  {
+    "season": 6,
+    "rank": 52,
+    "episode": 2,
+    "title": "Home",
+    "runtime": 54
+  },
+  {
+    "season": 6,
+    "rank": 53,
+    "episode": 3,
+    "title": "Oathbreaker",
+    "runtime": 52
+  },
+  {
+    "season": 6,
+    "rank": 54,
+    "episode": 4,
+    "title": "Book of the Stranger",
+    "runtime": 59
+  },
+  {
+    "season": 6,
+    "rank": 55,
+    "episode": 5,
+    "title": "The Door",
+    "runtime": 57
+  },
+  {
+    "season": 6,
+    "rank": 56,
+    "episode": 6,
+    "title": "Blood of My Blood",
+    "runtime": 52
+  },
+  {
+    "season": 6,
+    "rank": 57,
+    "episode": 7,
+    "title": "The Broken Man",
+    "runtime": 51
+  },
+  {
+    "season": 6,
+    "rank": 58,
+    "episode": 8,
+    "title": "No One",
+    "runtime": 59
+  },
+  {
+    "season": 6,
+    "rank": 59,
+    "episode": 9,
+    "title": "Battle of the Bastards",
+    "runtime": 60
+  },
+  {
+    "season": 6,
+    "rank": 60,
+    "episode": 10,
+    "title": "The Winds of Winter",
+    "runtime": 68
+  },
+  {
+    "season": 7,
+    "rank": 61,
+    "episode": 1,
+    "title": "Dragonstone",
+    "runtime": 60
+  },
+  {
+    "season": 7,
+    "rank": 62,
+    "episode": 2,
+    "title": "Stormborn",
+    "runtime": 60
+  },
+  {
+    "season": 7,
+    "rank": 63,
+    "episode": 3,
+    "title": "The Queen's Justice",
+    "runtime": 64
+  },
+  {
+    "season": 7,
+    "rank": 64,
+    "episode": 4,
+    "title": "The Spoils of War",
+    "runtime": 51
+  },
+  {
+    "season": 7,
+    "rank": 65,
+    "episode": 5,
+    "title": "Eastwatch",
+    "runtime": 60
+  },
+  {
+    "season": 7,
+    "rank": 66,
+    "episode": 6,
+    "title": "Beyond the Wall",
+    "runtime": 71
+  },
+  {
+    "season": 7,
+    "rank": 67,
+    "episode": 7,
+    "title": "he Dragon and the Wolf",
+    "runtime": 82
+  }
+]
